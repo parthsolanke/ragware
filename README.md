@@ -70,3 +70,5 @@ RAGware/
    - **function_tools/**: Module providing utilities for function calling within RAGware.
    - **data_management/**: Module handling file management, persistence, and caching.
    - **tests/**: Directory containing unit tests for each module and a conftest.py for test configuration.
+
+3. Octamind Blog: [Link](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
