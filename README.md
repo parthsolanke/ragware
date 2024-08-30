@@ -1,4 +1,4 @@
-# RAGware ( Maybe develop in Go for Performance & Concurrency and also try to integrate PostgreSQL )
+# RAGware ( Maybe develop in Go for Performance & Concurrency and also try to integrate PostgreSQL~Rockset )
 A simple plug-in modular library for developing RAG agents 🤖 and semantic search applications.
 
 ### RAGware GitHub Repository Structure
