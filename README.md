@@ -72,3 +72,4 @@ RAGware/
    - **tests/**: Directory containing unit tests for each module and a conftest.py for test configuration.
 
 3. Octamind Blog: [Link](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
+4. Consider Implementing: [Link](https://www.anthropic.com/news/contextual-retrieval)
