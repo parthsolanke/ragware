@@ -39,4 +39,3 @@ Alternatively (pip):
 
 ## License
 
-MIT
