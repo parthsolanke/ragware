@@ -31,6 +31,23 @@ Alternatively (pip):
    pip install -e .
    python -m src.main
 
+## JavaScript client
+
+A dependency-free client is available in `js-client/` (Node >= 18):
+
+```js
+import { RAGWareClient } from "./js-client/index.js";
+
+const client = new RAGWareClient({ baseUrl: "http://localhost:8000" });
+
+const result = await client.query("Which coffee type is most popular?", {
+  topK: 3,
+  returnContext: true,
+});
+
+console.log(result.response);
+```
+
 ## Notes
 
 - The API server defaults to host `0.0.0.0` and port `8000` (see `src/config.py`).
